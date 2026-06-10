@@ -27,3 +27,5 @@ print("I am Purusharth:")
 print("Day 2 of the GitHub")
 
 print("I can do it no matter how difficult it is.")
+
+print("Banana, vegitables, fruits, cat, dog.")
