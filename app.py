@@ -23,3 +23,5 @@ print("Result:", result)
 print("It is working fine!")
 
 print("I am Purusharth:")
+
+print("Day 2 of the GitHub")
